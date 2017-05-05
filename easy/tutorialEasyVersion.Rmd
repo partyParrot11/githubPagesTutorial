@@ -44,7 +44,7 @@ You may want to spend a little time learning how to use markdown, as it'll make 
 
   1) Fork the Repository
   2) Rename the Repo(sitory)
-  3) Change and Personalize Your Site with YAML
+  3) Change and Personalize Your Site by editing a file
   4) Look at your pretty website!
   5) Start Editing Content with Markdown 
   6) Adding Links
